@@ -1,8 +1,0 @@
-![[Qubit]]
-![[Quantum Circuit]]
-![[Early Quantum Algorithms]]
-![[Shor's Algorithm]]
-![[Quantum Annealing]]
-![[Quantum Error Correction]]
-![[Surface Code]]
-![[Logical Gates of Surface Code]]
